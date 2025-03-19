@@ -1,4 +1,6 @@
 # SORD-M203-COMPUTER
+![IMG_1056](https://github.com/user-attachments/assets/09d2c19a-47b3-4e2f-865a-1ca16af44a0c)
+
 Documentation on my Sord M203 MKII computer is a work in progress, there is not much information available on the internet.
 I have repaired the floppy controller (a very lossy Tantalum capacitor) and the main board (dirty 4-way dipswitch block) and got it booting on a original 100tpi drive and a disk supplied by Franck. 
 The drives (and disks)  it came with when I obtained it were 96TPI 80Track drives, I now have these working and discovered quite a lot of games and other programs on the disks.
