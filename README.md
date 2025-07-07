@@ -9,7 +9,9 @@ The drives (and disks)  it came with when I obtained it were 96TPI 80Track drive
 I now have these working and discovered quite a lot of games and other programs on the disks, but a lot of them appear too large to fit in the available memory once Basic takes up most of it.
 
 Currently I am trying to get a original 100TPI drive to coexist on the same cable with a 96TPI drive so as to convert the disks to the original Sord format.
-No success yet, the 96TPI drives have pins 34 and 6 swapped so the function of each pin is the same as the 100tpi drives. 
+
+No success yet, the 96TPI drives have pins 34 and 6 swapped so the function of each pin is the same as the 100tpi drives.
+
 I think the problem could be the terminator on the 100TPI drive biases the lines via 330/220R resistor divider where the 96TPI drives pulls them up to 5V via 150R resistors. I have tried all combinations of terminators with no success.
 
 To be continued......
