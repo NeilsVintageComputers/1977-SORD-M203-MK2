@@ -1,6 +1,4 @@
 # SORD-M203-COMPUTER
-![IMG_1056](https://github.com/user-attachments/assets/09d2c19a-47b3-4e2f-865a-1ca16af44a0c)
-
 ![With96tpiDrives](https://github.com/user-attachments/assets/5aa4f8f2-0a94-4257-ac67-0279ce7a4371)
 
 
