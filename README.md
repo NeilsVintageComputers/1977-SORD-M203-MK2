@@ -1,6 +1,9 @@
 # SORD-M203-COMPUTER
 ![IMG_1056](https://github.com/user-attachments/assets/09d2c19a-47b3-4e2f-865a-1ca16af44a0c)
 
+![With96tpiDrives](https://github.com/user-attachments/assets/5aa4f8f2-0a94-4257-ac67-0279ce7a4371)
+
+
 Documentation on my Sord M203 MKII computer is a work in progress, there is not much information available on the internet so this may help others trying to get a Sord working.
 
 When I first tried it there was nothing on the screen 9 out of 10 turn ons, this was fixed after flipping the 4-way dip swith block switches back and forth a few times after trying to squirt some contact cleaner into it. This fault may also have been partly due to capacitors needing to reform after years of no use.  It now started up reliably.
